@@ -1,7 +1,7 @@
 {
   "author": "wincax <wincax@gmail.com>",
   "name": "converse-headless-xmpp",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "dist/index.js",
   "description": "converse headless xmpp module.",
   "homepage": "https://github.com/wincax88/converse-xmpp",
@@ -79,7 +79,7 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "git@github.com:WeAreAthlon/frontend-webpack-boilerplate.git"
+    "url": "https://github.com/wincax88/converse-xmpp"
   },
   "scripts": {
     "build": "webpack --config configuration/webpack.dev.config.js --mode=development",
